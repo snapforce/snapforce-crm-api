@@ -1,4 +1,4 @@
-You can find some sample code here to get started with the <a href="https://www.snapforce.com/crm/SnapforceCRM-API-Documentation.pdf" title="Snapforce CRM API">Snapforce CRM API</a>.
+You can find some sample code here to get started building your own integration. To read a more complete documentation, try the <a href="https://www.snapforce.com/crm/SnapforceCRM-API-Documentation.pdf" title="Snapforce CRM API">Snapforce CRM API</a> pdf.
 
 <h2>About Snapforce</h2>
 <a href="https://www.snapforce.com/" title="Snapforce CRM">Snapforce CRM</a> is a simple yet robust cloud based CRM software. Founded in 2011 to offer an affordable quality alternative to the large overly complex CRM products out there. Since 2011, Snapforce has continued to develop new features and improve the user experience with consistent monthly updates. You can read more about <a href="https://www.snapforce.com/what-is-crm/" title="What is CRM">CRM software</a>, the <a href="https://www.snapforce.com/crm/features/" title="Features">features</a> our CRM includes, and our <a href="https://www.snapforce.com/crm/configure/" title="Pricing">pricing</a> structure at our website.
